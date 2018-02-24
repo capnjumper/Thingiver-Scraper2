@@ -1,7 +1,7 @@
 const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
-//import Helpers from 'client/imports/scraperproj/Helpers'
+
 
 exports.imgScrape=(filesurl, title ,cb)=>{
 
