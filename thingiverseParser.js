@@ -49,14 +49,3 @@ console.log('provide url or file')
     }
   })
 
-
-
-
-
-//
-// if(process.argv[2]==null){
-//   console.log("GIMME A URL")
-// }
-// else{
-//   runProgram(process.argv[2]);
-// }
